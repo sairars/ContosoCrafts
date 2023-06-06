@@ -1,5 +1,5 @@
 # ContosoCrafts 
-## [https://contosocraftswebsitebysaira.azurewebsites.net/](https://contosocraftswebsitebysaira.azurewebsites.net/)
+## [https://contosocraftsbysaira.azurewebsites.net/](https://contosocraftsbysaira.azurewebsites.net/)
 
 Built this web application as part of my learning journey on Asp.Net Core. It is a simple Hello World style beginner project that I did, in order to get started with Asp.Net Core.
 
